@@ -1,8 +1,5 @@
 # Particle Filter COMP PHY
 
-Venkata Guddetti
-Rahul Gondi
-
 Implementation of a Particle Filter
 
 A particle filter is a localisation technique which helps us find where we are in a pre-existing map ( confined area). Suppose we are in a random location in this map how do we know where we are?, we might look at sign boards, texture of walls, door signs and figure out where we are but this is not possible for a robot. A robot does not have eyes ,or in this case we are not incorporating a camera, that becomes a problem of computer vision), we only have a Lidar (a sensor that gives distance values), so how can we figure out where we are in this map only by using distance data? we can actually find out where we are using the algorithm below:
