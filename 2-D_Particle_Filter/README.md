@@ -1,6 +1,6 @@
 # Particle Filter
 
-Rahul Gondi
+Rahul Gondi, Venkata Guddeti
 
 ## Introduction
 
